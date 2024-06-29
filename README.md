@@ -28,3 +28,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subhrajitg&" alt="subhrajitg" /></p>
 
+https://github.com/SubhrajitG/SubhrajitG/blob/output/github-contribution-grid-snake.gif
+
+![snake gif](https://github.com/SubhrajitG/SubhrajitG/blob/output/github-contribution-grid-snake.gif)
