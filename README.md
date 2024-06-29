@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Subhrajit Ghosh</h1>
+<h1 align="center">Hi I'm Subhrajit Ghosh</h1>
 <h3 align="center">An aspiring and dedicated Computer Science Engineer at Techno Main Salt-Lake, Kolkata. I am driven by a profound interest in the world of innovation. My journey has been fueled by a thirst for knowledge and a favour for exploring new horizons. Mainly interested in Machine learning, Artificial Engineering, Data Science, Deep Learning. I am constantly strive to improve my problem solving skill and learn new technologies and hopefully will be able to make a positive impact in the industry.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhrajitg&label=Profile%20views&color=0e75b6&style=flat" alt="subhrajitg" /> </p>
