@@ -30,4 +30,4 @@
 
 
 
-![snake gif](https://github.com/SubhrajitG/SubhrajitG/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/SubhrajitG/SubhrajitG/blob/output/github-contribution-grid-snake.svg)
