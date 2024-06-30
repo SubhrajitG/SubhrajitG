@@ -1,4 +1,11 @@
-<h1 align="center">Hi, I'm Subhrajit Ghosh</h1>
+<h1 align="center">Hi, I'm Subhrajit Ghosh  <img src="https://user-images.githubusercontent.com/39955420/147578264-bae0526c-028a-49d2-8af8-d08bb4edbd2a.gif" height="30" width="30"></h2>
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/_subhrajit_g?style=social)](https://x.com/_subhrajit_g)
+[![GitHub followers](https://img.shields.io/github/followers/rishikagupta2468?style=social)](https://github.com/rishikagupta2468)
+
+<h2 align="center"><img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif"></h2>
+ 
+
 <h3 align="center">An aspiring and dedicated Computer Science Engineer at Techno Main Salt-Lake, Kolkata. I am driven by a profound interest in the world of innovation. My journey has been fueled by a thirst for knowledge and a favour for exploring new horizons. Mainly interested in Machine learning, Artificial Engineering, Data Science, Deep Learning. I am constantly strive to improve my problem solving skill and learn new technologies and hopefully will be able to make a positive impact in the industry.</h3>
 
 <div align="left">
@@ -14,6 +21,8 @@
 
 - 📫 How to reach me **subhrajitghosh35@gmail.com**
 
+- ⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/_subhrajit_g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_subhrajit_g" height="30" width="40" /></a>
@@ -24,6 +33,7 @@
 <p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
 
 
+
 <h3 align="left">My Journey:</h3>
 <div align="left">
   <img width="420px" src="https://github-readme-stats.vercel.app/api?username=SubhrajitG&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=My%20GitHub%20Stats" alt="stats graph"  />
@@ -32,5 +42,6 @@
   <img width="395px" src="https://github-readme-streak-stats.herokuapp.com/?user=SubhrajitG&theme=dracula" alt="SubhrajitG" />
 </div>
 
+## Feeding:
 ![snake gif](https://github.com/SubhrajitG/SubhrajitG/blob/output/github-contribution-grid-snake-dark.svg)
 
